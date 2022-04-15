@@ -14,7 +14,7 @@ window.onload = function init()
 
     // WebGL 구성
     gl.viewport(0, 0, canvas.width, canvas.height);
-    gl.clearColor(1.0, 1.0, 1.0, 1.0); //배경색 색깔 지정
+    gl.clearColor(1.0, 1.0, 1.0, 1.0); //배경색 흰새으로 지정
 
     // 셰이더 로드 및 속성 버퍼 초기화
     var program = initShaders(gl, "vertex-shader", "fragment-shader");
