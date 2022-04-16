@@ -18,3 +18,12 @@
 <br>
 <img src="https://user-images.githubusercontent.com/67679972/163680380-9bbb4752-c930-463b-b394-23c748a23738.gif" width="300" >
 <br><br><br>
+
+## - [week4 :색깔사각형 + 집 + 움직이는 사각형 만들기](https://github.com/scarlet0o0/WebGL_study/tree/main/Week04)
+<br>
+<img src="https://user-images.githubusercontent.com/67679972/163681168-3c9c4ceb-8ecb-48c2-aa1d-856fc5bb6f7f.png" width="300" >
+<br>
+<img src="https://user-images.githubusercontent.com/67679972/163681193-08de8b67-40b4-47af-b9ee-62780459cb7e.png" width="300" >
+<br>
+<img src="https://user-images.githubusercontent.com/67679972/163681298-ba1067d3-a860-413f-84a7-165801c184ac.gif" width="300" >
+<br><br><br>
