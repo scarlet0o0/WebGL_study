@@ -11,3 +11,10 @@
 <br>
 <img src="https://user-images.githubusercontent.com/67679972/163573839-1892486b-2bfd-4eae-9773-c89bbbe6a6f1.png" width="300" >
 <br><br><br>
+
+## - [week3 : 시에르핀스키 삼각형 만들기](https://github.com/scarlet0o0/WebGL_study/tree/main/Week03)
+<br>
+<img src="https://user-images.githubusercontent.com/67679972/163680344-daae7421-dd56-4603-aff0-b8f0c8304287.gif" width="300" >
+<br>
+<img src="https://user-images.githubusercontent.com/67679972/163680380-9bbb4752-c930-463b-b394-23c748a23738.gif" width="300" >
+<br><br><br>
