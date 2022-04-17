@@ -5,6 +5,7 @@
 3. [week3 시에르핀스키 삼각형 만들기](#week3--시에르핀스키-삼각형-만들기)
 4. [week4 색깔사각형 + 집 + 움직이는 사각형 만들기](#week4-색깔사각형--집--움직이는-사각형-만들기)
 5. [week5 :점 + 선 + 삼각형 그리기](#week5-점--선--삼각형-그리기)
+5. [week6 :정육각형 + 헥사피라미드 + 만들기](#week6-정육각형--헥사피라미드--만들고-회전)
 <br><br><br>
 
 ## [week1 : 삼각형 만들기](https://github.com/scarlet0o0/WebGL_study/tree/main/Week01)
@@ -42,4 +43,13 @@
 <img src="https://user-images.githubusercontent.com/67679972/163713743-2a008c2a-4772-4573-9e45-80f25e9d867f.gif" width="300" >
 <br>
 <img src="https://user-images.githubusercontent.com/67679972/163713747-9caa3c39-31cc-443b-abec-4133ee240ee4.gif" width="300" >
+<br><br><br>
+
+## [week6 :정육각형 + 헥사피라미드 + 만들고 회전](https://github.com/scarlet0o0/WebGL_study/tree/main/Week06)
+<br>
+<img src="https://user-images.githubusercontent.com/67679972/163718673-b865c322-aede-402b-b1ba-5cea45196f77.gif" width="300" >
+<br>
+<img src="https://user-images.githubusercontent.com/67679972/163718694-beacd8a4-45c3-4ae1-becd-df18c135088d.gif" width="300" >
+<br>
+<img src="https://user-images.githubusercontent.com/67679972/163718779-10840805-1d39-4240-9aa2-0bae72ce4445.gif" width="300" >
 <br><br><br>
