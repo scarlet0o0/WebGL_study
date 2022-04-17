@@ -1,10 +1,10 @@
 # WebGL 공부
 
-1. [week1 삼각형 만들기](#week1--삼각형-만들기httpsgithubcomscarlet0o0webglstudytreemainweek01)
-2. [week2 사각형 + 별 만들기](#week2--사각형--별-만들기httpsgithubcomscarlet0o0webglstudytreemainweek02)
-3. [week3 시에르핀스키 삼각형 만들기](#week3--시에르핀스키-삼각형-만들기httpsgithubcomscarlet0o0webglstudytreemainweek03)
-4. [week4 색깔사각형 + 집 + 움직이는 사각형 만들기](#week4-색깔사각형--집--움직이는-사각형-만들기httpsgithubcomscarlet0o0webglstudytreemainweek04)
-5. [week5 :점 + 선 + 삼각형 그리기](#week5-점--선--삼각형-그리기httpsgithubcomscarlet0o0webglstudytreemainweek05)
+1. [week1 삼각형 만들기](#week1--삼각형-만들기)
+2. [week2 사각형 + 별 만들기](#week2--사각형--별-만들기)
+3. [week3 시에르핀스키 삼각형 만들기](#week3--시에르핀스키-삼각형-만들기)
+4. [week4 색깔사각형 + 집 + 움직이는 사각형 만들기](#week4-색깔사각형--집--움직이는-사각형-만들기)
+5. [week5 :점 + 선 + 삼각형 그리기](#week5-점--선--삼각형-그리기)
 <br><br><br>
 
 ## [week1 : 삼각형 만들기](https://github.com/scarlet0o0/WebGL_study/tree/main/Week01)
