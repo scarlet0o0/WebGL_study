@@ -27,3 +27,12 @@
 <br>
 <img src="https://user-images.githubusercontent.com/67679972/163681298-ba1067d3-a860-413f-84a7-165801c184ac.gif" width="300" >
 <br><br><br>
+
+## - [week5 :점 + 선 + 삼각형 그리기](https://github.com/scarlet0o0/WebGL_study/tree/main/Week05)
+<br>
+<img src="https://user-images.githubusercontent.com/67679972/163713733-5d6eefdc-9980-4896-9cd4-8a86f47868b1.gif" width="300" >
+<br>
+<img src="https://user-images.githubusercontent.com/67679972/163713743-2a008c2a-4772-4573-9e45-80f25e9d867f.gif" width="300" >
+<br>
+<img src="https://user-images.githubusercontent.com/67679972/163713747-9caa3c39-31cc-443b-abec-4133ee240ee4.gif" width="300" >
+<br><br><br>
