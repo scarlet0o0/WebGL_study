@@ -53,3 +53,15 @@
 <br>
 <img src="https://user-images.githubusercontent.com/67679972/163718779-10840805-1d39-4240-9aa2-0bae72ce4445.gif" width="300" >
 <br><br><br>
+
+## [week9 :카메라 + 키보드이동](https://github.com/scarlet0o0/WebGL_study/tree/main/Week09)
+<br>
+<img src="https://user-images.githubusercontent.com/67679972/174554775-44eabaab-875d-4169-a614-50db7b0a0c49.gif" width="300" >
+<br><br><br>
+
+## [week10 :광원](https://github.com/scarlet0o0/WebGL_study/tree/main/Week10)
+<br>
+<img src="https://user-images.githubusercontent.com/67679972/174555747-521c8da9-1057-43a3-bd6e-ed31d3dff3a7.gif" width="300" >
+<br>
+<img src="https://user-images.githubusercontent.com/67679972/174555921-81889ed7-12d9-4195-afc2-5156c0da687f.gif" width="300" >
+<br><br><br>
